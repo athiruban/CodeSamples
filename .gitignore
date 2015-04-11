@@ -1,0 +1,33 @@
+bin/
+
+# Java Clas Files #
+*.class
+
+# Temporary files #
+*.java~
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.csv
+
+# IDE Files #
+.classpath
+.project
+.settings
+*.iml
+*.ipr
+*.iws
+*.swp
+.idea
+
+# OS Specific folders/Files#
+.DS_Store
+
+# Build tool specific files/Folders #
+.gradle/
+dist/
+build/
+target/
+tests/target/
