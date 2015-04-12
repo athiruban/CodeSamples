@@ -1,0 +1,24 @@
+
+This week we try to solve problems involving linear datastructure like arrays, linked list, stacks and queues.
+
+All the code should follow Java naming conventions and proper indentation (applicable to Java).
+
+Open discussions
+----------------
+
+1) What do you know about Algorithm analysis?
+
+   // Write your answer in this file itself.
+
+2) What are the various ways in which we can measure the performance of an algorithm?
+
+   // Write your answer in this file itself.
+
+3) How we do algorithm analysis after 50 years?
+
+   // Write your answer in this file itself.
+
+Programming problem
+-------------------
+
+I will update.
