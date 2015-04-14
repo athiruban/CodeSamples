@@ -21,4 +21,7 @@ Open discussions
 Programming problem
 -------------------
 
-I will update.
+1) Find nth node from the end of a linked list.
+
+2) Given an expression with symbols (, [ and { write code to check
+   for balancing of symbols.
