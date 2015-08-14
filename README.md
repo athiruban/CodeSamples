@@ -1,2 +1,2 @@
 # CodingRefresher
-To refresh various topics in programming
+To refresh various core Java concepts
