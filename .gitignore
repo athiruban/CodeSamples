@@ -31,3 +31,7 @@ dist/
 build/
 target/
 tests/target/
+
+#bat files
+*.bat
+*.txt
